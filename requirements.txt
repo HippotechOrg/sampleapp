@@ -109,6 +109,7 @@ tomli==2.0.1
 typing_extensions==4.5.0
 urllib3==1.26.9
 vincent==0.4.4
+Werkzeug==2.2.2
 Webhook-Listener==1.2.0
 wrapt==1.15.0
 WTForms==3.0.1
